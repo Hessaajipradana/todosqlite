@@ -12,8 +12,6 @@
 ## 📜 Fitur Utama
 
 - **Manajemen Tugas yang Mudah**: Tambahkan, edit, dan hapus tugas Anda dengan antarmuka yang intuitif.
-- **Undo Penghapusan**: Batalkan penghapusan tugas secara langsung.
-- **Dark Mode dengan Glassmorphism**: Antarmuka yang modern dengan tema gelap dan efek kaca.
 - **Database Lokal dengan SQLite**: Penyimpanan data tugas di perangkat tanpa membutuhkan koneksi internet.
 - **Desain Responsif**: Dapat digunakan di berbagai perangkat.
 
@@ -24,7 +22,6 @@
 - **Flutter**: Framework utama untuk pengembangan antarmuka.
 - **Dart**: Bahasa pemrograman yang digunakan dalam Flutter.
 - **SQLite**: Database lokal untuk menyimpan data tugas.
-- **Google Fonts**: Untuk penggunaan font yang estetis.
 
 ---
 
